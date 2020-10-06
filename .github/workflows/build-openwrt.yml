@@ -25,7 +25,7 @@ env:
   TZ: Asia/Shanghai
 
 on:
-  schedule:
+#  schedule:
     - cron: 0 8 */5 * *
 #  release:
 #    types: published
